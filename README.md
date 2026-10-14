@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/fanyanwu/](https://linkedin.com/in/fanyanwu/)
 
-- ⚡ Fun fact **I’m a Codeforces Expert and LeetCode Knight.**
+- ⚡ Fun fact **I’m a LeetCode Knight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
